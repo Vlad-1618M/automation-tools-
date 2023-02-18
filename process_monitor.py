@@ -1,8 +1,5 @@
 #!/usr/bin/env python
-from ast import For
-from asyncore import file_dispatcher
-from posixpath import splitext
-import readline
+
 import time
 import psutil
 import datetime
